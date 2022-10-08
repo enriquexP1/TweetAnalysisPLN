@@ -1,0 +1,37 @@
+mediterraneopre user alcaldedeelche user ajuntamentelx pide al gobierno recupere fondo transporte compensar reducción ingresos  user mediterrneopress 
+[mediterraneopre] [mediterraneopre] [VLfin] 
+[user] [user] [PE] 
+[alcaldedeelche] [alcaldedeelche] [NC] 
+[user] [user] [PE] 
+[ajuntamentelx] [ajuntamentelx] [NC] 
+[pide] [pedir] [VLfin] 
+[al] [al] [PAL] 
+[gobierno] [gobierno] [NC] 
+[recupere] [recuperar] [VLfin] 
+[fondo] [fondo] [NC] 
+[transporte] [transporte] [NC] 
+[compensar] [compensar] [VLinf] 
+[reducción] [reducción] [NP] 
+[ingresos] [ingreso] [NC] 
+[user] [user] [PE] 
+[mediterrneopress] [mediterrneopress] [NC] 
+
+
+bididear user elbid reunimos grupo expertos america latina pensar desafíos durante post te compartimos conclusiones 
+[bididear] [bididear] [VLinf] 
+[user] [user] [PE] 
+[elbid] [elbid] [VLfin] 
+[reunimos] [reunir] [VLfin] 
+[grupo] [grupo] [NC] 
+[expertos] [experto] [ADJ] 
+[america] [america] [VLfin] 
+[latina] [latino] [ADJ] 
+[pensar] [pensar] [VLinf] 
+[desafíos] [desafíos] [NC] 
+[durante] [durante] [PREP] 
+[post] [post] [PE] 
+[te] [tÃº] [PPX] 
+[compartimos] [compartir] [VLfin] 
+[conclusiones] [conclusiÃ³n] [NC] 
+
+
